@@ -1,5 +1,6 @@
 # axy.party
 
+## sayfalar
 Sayfa | Mesaj
 |:---:|:---
 [0](https://axy.party/0) | Her yolculuk bir dizi tercihten ibarettir. Bunlardan ilki, bu yolculuğa başlamaktır.
