@@ -20,6 +20,5 @@ Sayfa | Mesaj
 ? | ?
 [62](https://axy.party/anahtar) | Bulduğun şey aradığın şey olmayabilir.
 ? | ?
-[99](https://axy.party/1234567890) | Sonsuza ulaşmanın sonsuz yolu vardır.
-[99](https://axy.party/9876543210) | Sonsuza ulaşmanın sonsuz yolu vardır.
-[99](https://axy.party/4342434243) | Sonsuza ulaşmanın sonsuz yolu vardır.
+[98](https://axy.party/999999999) | Sonsuz kopyadan ilki gerçek olandır.
+[99](https://axy.party/1000000000) | Sonsuza ulaşmanın sonsuz yolu vardır.
