@@ -14,13 +14,14 @@ Sayfa | Mesaj | Log | Meali | Varış
 [8 - 18](https://axy.party/8) | Tekrarlamak ilerlemek olmayabilir. | | tekrarlayın | [19](https://axy.party/19)
 [19](https://axy.party/19) | İlerlemek için tekrarlamak gerekebilir. | | | [20](https://axy.party/20)
 [20](https://axy.party/20) | Farklı yerlere ancak farklı yollardan varmak mümkündür. | | aklımıza ne gelirse deniyoruz ve yeni sayfalar keşfediyoruz | 
+[21](https://axy.party/kaynak) | Anlamsızdır kaynağa ulaşmak, onu anlayamadıkça. | | | 
 ? | ? | ? | ? | ?
 [26](https://axy.party/paspas) | Hikayeyi doğru anlamak bazen gereken tek şeydir. | Anahtar nerede? | anahtar aramaya çıkıyoruz | [27](https://axy.party/paspas/anahtar) veya [62](https://axy.party/anahtar)
 [27](https://axy.party/paspas/anahtar) | Gizleneni bulmak kolaydır arayacağın yeri bildiğinde. | 1/2 sYuEyRuDnEyBeÜrYyÜüK | anahtar ararken burayı bulduk, bide diger anahtar var, burası 1/2 yani 1.anahtar. 2.yi de bulmamız lazım | [62](https://axy.party/anahtar)
 ? | ? | ? | ? | ?
 [60](https://axy.party/9/9/9/9/9/9/9/9/8) | Her kilit açılmak için tasarlanmıştır. | | burayı anlamadım daha |
 ? | ? | ? | ? | ?
-[62](https://axy.party/anahtar) | Bulduğun şey aradığın şey olmayabilir. | 2/2 zBüİnReKçAıPkItVıAğRı | 2.anahtarı bulduk, 1. ve 2. anahtarı bulma sırası degişebilir. anahtar büyük harfler ve küçük harfleri birleştirince çıkıyor | [27](https://axy.party/paspas/anahtar)
+[62](https://axy.party/anahtar) | Bulduğun şey aradığın şey olmayabilir. | 2/2 zBüİnReKçAıPkItVıAğRı | 2.anahtarı bulduk, 1. ve 2. anahtarı bulma sırası degişebilir. anahtar büyük harfler ve küçük harfleri birleştirince çıkıyor. "suyun yeryüzüne çıktığı yerde büyük bir kapı var" | [27](https://axy.party/paspas/anahtar) veya [21](https://axy.party/kaynak)
 ? | ? | ? | ? | ?
 [98](https://axy.party/999999999) | Sonsuz kopyadan ilki gerçek olandır. | O ise anlamaya başlamış, Ayak izlerini takip etmiş önüne serilen sonsuz sayıda yansımanın. Sonunda varmış gerçek aynalara. Gülümsemiş. Beklemeye devam etmiş. Aynalar, parçalanmışlar. kazanır | çözemedim daha :( | [99](https://axy.party/1000000000)
 [99](https://axy.party/1000000000) | Sonsuza ulaşmanın sonsuz yolu vardır. | İki ayna varmış iki ayrı sonsuz yolun sonunda. Durmadan bakışır, sonsuz kez karışırlarmış birbirlerine. Nice hayatlar geçmiş, Onlar bıkmadan beklemiş, Birbirlerine kavuşamamış, Unutulup gitmişler. | çözemedim daha :( | [98](https://axy.party/999999999)
