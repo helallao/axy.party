@@ -10,8 +10,11 @@ Sayfa | Mesaj | Log | Meali | Varış
 [4](https://axy.party/404) | Hatalar ancak anlaşıldığında mantık kazanır. | Bu bir hata değil. | evet 404'den 505'i bulucaz, mantık yürüterek | [5](https://axy.party/505) veya [6](https://axy.party/6)
 [5](https://axy.party/505) | Eksikleri tamamlamak için hatalardan başlamak gerekebilir. | | | 
 [6](https://axy.party/6) | Hayat sonla değil yolculukla ilgilidir. | | sonu bulunca bişe anlamıyon zaten, hikayeyi anlamak gerek | [7](https://axy.party/7)
-[7](https://axy.party/7) | Eksik parçaları tamamlama ihtiyacıdır seni ilerleten. | | | [8 - 18](https://axy.party/8)
-[8 - 18](https://axy.party/8) | Tekrarlamak ilerlemek olmayabilir. | | tekrarlayın | [19](https://axy.party/19)
+[7](https://axy.party/7) | Eksik parçaları tamamlama ihtiyacıdır seni ilerleten. | | | [8](https://axy.party/8)
+[8](https://axy.party/8) | Tekrarlamak ilerlemek olmayabilir. | | tekrarlayın | [19](https://axy.party/19)
+? | ? | ? | ? | ?
+[12](https://axy.party/kaynak/dosya) | Kısa yoldan gitmek yanlış değildir. | | | 
+? | ? | ? | ? | ?
 [19](https://axy.party/19) | İlerlemek için tekrarlamak gerekebilir. | | | [20](https://axy.party/20)
 [20](https://axy.party/20) | Farklı yerlere ancak farklı yollardan varmak mümkündür. | | aklımıza ne gelirse deniyoruz ve yeni sayfalar keşfediyoruz | 
 [21](https://axy.party/kaynak) | Anlamsızdır kaynağa ulaşmak, onu anlayamadıkça. | | | 
