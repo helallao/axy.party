@@ -30,8 +30,8 @@ DOSYA | [/KAPI/duvar/desen](https://axy.party/KAPI/duvar/desen) | | | |
 26 | [/paspas](https://axy.party/paspas) | Hikayeyi doğru anlamak bazen gereken tek şeydir. | Anahtar nerede? | anahtar aramaya çıkıyoruz | [/paspas/anahtar](https://axy.party/paspas/anahtar) veya [/anahtar](https://axy.party/anahtar)
 27 | [/paspas/anahtar](https://axy.party/paspas/anahtar) | Gizleneni bulmak kolaydır arayacağın yeri bildiğinde. | 1/2 sYuEyRuDnEyBeÜrYyÜüK | anahtar ararken burayı bulduk, bide diger anahtar var, burası 1/2 yani 1.anahtar. 2.yi de bulmamız lazım | [/anahtar](https://axy.party/anahtar)
 ? | ? | ? | ? | ? | ?
-31 | [/404/tepe](https://axy.party/404/tepe) | Tepe ile dağ arasındaki fark bakış açısıdır. | 057 | | 
-31 | [/404/dag](https://axy.party/404/dag) | Tepe ile dağ arasındaki fark bakış açısıdır. | Tırmanmanya devam etti. Yükseldikçe gördü. Gördükçe anladı. Plan dosyadaydı. | | 
+31 | [/404/tepe](https://axy.party/404/tepe) | Tepe ile dağ arasındaki fark bakış açısıdır. | 057 | | [/404/dag](https://axy.party/404/dag)
+31 | [/404/dag](https://axy.party/404/dag) | Tepe ile dağ arasındaki fark bakış açısıdır. | Tırmanmanya devam etti. Yükseldikçe gördü. Gördükçe anladı. Plan dosyadaydı. | | [/404/tepe](https://axy.party/404/tepe)
 31 | [/404/tepe/kule](https://axy.party/404/tepe/kule/) | Yüksek bir kule inşa etmek zaman alır. | 75 117 108 101 100 101 32 110 101 32 118 97 114 63 32 89 97 32 110 117 108 101 100 101 63 32 79 32 100 97 32 97 114 116 305 107 32 107 117 108 101 100 101 46 | | 
 DOSYA | [/404/tepe/kule/plan](https://axy.party/404/tepe/kule/plan) | | | | 
 DOSYA | [/kaynak/dosya/057/plan](https://axy.party/kaynak/dosya/057/plan) | | | | 
