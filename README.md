@@ -29,6 +29,7 @@ Sayfa | Mesaj | Log | Meali | Varış
 [31](https://axy.party/404/tepe) | Tepe ile dağ arasındaki fark bakış açısıdır. | 057 | | 
 [31.2](https://axy.party/404/dag) | Tepe ile dağ arasındaki fark bakış açısıdır. | Tırmanmanya devam etti. Yükseldikçe gördü. Gördükçe anladı. Plan dosyadaydı. | | 
 [31.3](https://axy.party/404/tepe/kule/) | Yüksek bir kule inşa etmek zaman alır. | 75 117 108 101 100 101 32 110 101 32 118 97 114 63 32 89 97 32 110 117 108 101 100 101 63 32 79 32 100 97 32 97 114 116 305 107 32 107 117 108 101 100 101 46 | acaba axy neden 31 sayısını seçti :D | 
+[DOSYA](https://axy.party/404/tepe/kule/plan) | | | | 
 [DOSYA](https://axy.party/kaynak/dosya/057/plan) | | | | 
 ? | ? | ? | ? | ?
 [40](axy.party/kaynak/masal) | Masallar gerçeklerin abartılı yansımasıdır. | Geldiğin yeri unutma. Bu doğru kapı mı? | |
