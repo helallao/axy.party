@@ -7,6 +7,15 @@ warnings.filterwarnings('ignore')
 
 
 
+#
+#
+#      download
+#      urllib 1.23
+#
+#      pip install urllib==1.23
+#
+
+
 s = requests.Session()
 s.headers.update({'user-agent': 'Mozilla/5.0 (Windows NT 5.1; rv:41.0) Gecko/20100101'})
 
